@@ -1,0 +1,2 @@
+# oracle
+MAEGIA.TV GAME
