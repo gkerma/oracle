@@ -183,7 +183,7 @@ st.caption(
 # 🔮 ORACLE 48 CARTES
 # ================================================================
 
-ORACLE48 = [
+ORACLE48_CARDS = [
     # Voie intérieure
     {"nom": "Éveil", "famille": "Voie intérieure", "message": "Quelque chose s’ouvre en toi.", "axe": "Clarté intérieure"},
     {"nom": "Intuition", "famille": "Voie intérieure", "message": "Écoute la petite voix.", "axe": "Guidance subtile"},
@@ -245,7 +245,7 @@ ORACLE48 = [
 # 📜 ORACLE PĀLI (36 mots essentiels)
 # ================================================================
 
-PALI = [
+PALI_CARDS = [
     {"mot": "Sati", "sens": "Attention, présence consciente."},
     {"mot": "Metta", "sens": "Bienveillance illimitée."},
     {"mot": "Karuna", "sens": "Compassion en action."},
@@ -281,7 +281,7 @@ PALI = [
 # ᚱ RUNES NORDIQUES — Elder Futhark
 # ================================================================
 
-RUNES = [
+RUNES_LIST = [
     {"rune": "ᚠ", "nom": "Fehu", "sens": "Abondance, circulation des ressources."},
     {"rune": "ᚢ", "nom": "Uruz", "sens": "Force vitale, puissance brute."},
     {"rune": "ᚦ", "nom": "Thurisaz", "sens": "Protection, séparation nécessaire."},
