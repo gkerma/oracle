@@ -1076,10 +1076,10 @@ from datetime import datetime
 import random
 
 # ====== IMPORTS DES BLOCS ======
-from bloc_1 import CARDS, RUNES_LIST, PALI_CARDS
-from bloc_2 import HEXAGRAMS, ANIMALS
-from bloc_3 import SPREADS, SPREAD_PACKS
-from bloc_4 import (
+import CARDS, RUNES_LIST, PALI_CARDS
+import HEXAGRAMS, ANIMALS
+import SPREADS, SPREAD_PACKS
+import (
     draw_cards, draw_runes,
     draw_iching_traits, iching_full_reading,
 )
