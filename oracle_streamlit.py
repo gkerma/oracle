@@ -183,7 +183,7 @@ st.caption(
 # 🔮 ORACLE 48 CARTES
 # ================================================================
 
-ORACLE48_CARDS = [
+CARDS = [
     # Voie intérieure
     {"nom": "Éveil", "famille": "Voie intérieure", "message": "Quelque chose s’ouvre en toi.", "axe": "Clarté intérieure"},
     {"nom": "Intuition", "famille": "Voie intérieure", "message": "Écoute la petite voix.", "axe": "Guidance subtile"},
